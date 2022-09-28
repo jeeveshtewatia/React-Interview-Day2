@@ -1,0 +1,18 @@
+.navbar {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: chocolate;
+    padding: 10px 0;
+}
+
+h1 {
+    background-color: goldenrod;
+}
+
+h2 {
+    background-color: burlywood;
+}
+
+h4 {
+    background-color: bisque;
+}
